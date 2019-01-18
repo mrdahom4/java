@@ -1,5 +1,5 @@
-token=NTI1MjgwOTg2ODM4MzM1NDg4.Dv4YDQ.vI5mJiprj0a7Ghu2sXTSdGIwlGI
-owner=520629080333352976
+token=NTM1NzIxMTc2NDU5MjQ3NjI2.DyMQ2A.ZrVXXmrb8yQLuyYQLLNcyrmsKP8
+owner=525435533770620928
 prefix=L
 game= Only Lòrans.
 stayinchannel=true
