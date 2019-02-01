@@ -1,6 +1,6 @@
 token=NTM1NzIxMTc2NDU5MjQ3NjI2.DyMQ2A.ZrVXXmrb8yQLuyYQLLNcyrmsKP8
-owner=525435533770620928
+owner=525434548939653151
 prefix=L
 game= Only Lòrans.
 stayinchannel=true
-songinstatus=true 
+
