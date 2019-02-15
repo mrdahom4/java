@@ -1,6 +1,0 @@
-token=NTM1NzIxMTc2NDU5MjQ3NjI2.DyMQ2A.ZrVXXmrb8yQLuyYQLLNcyrmsKP8
-owner=540515359225020419
-prefix=L
-game= Only Lòrans.
-stayinchannel=true
-
